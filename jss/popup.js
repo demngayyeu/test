@@ -87,15 +87,15 @@ one()
 					{
 					$("#divResult").fadeOut(0);
 					//PHẦN NÀY LÀ PHẦN HIỆN KHI BẠN BẤM "GỞI ĐI" LINK Ở SAU LÀ ICON MẶT CƯỜI XÓA BỎ CŨNG ĐƯỢC CÒN TEXT THÌ BẠN SỬA LẠI THEO Ý CỦA BẠN.
-					$("#divResult").html("</br><h2>AI CŨNG NÓI VẬY MÀ <img src='http://duminhphongadv.com/files/assets/3.png'</img></h2>");
+					$("#divResult").html("</br><h2>AI CŨNG NÓI VẬY MÀ <img src='../img/3.png'</img></h2>");
 					$("#divResult").fadeIn(2000,function()
 							{
 							$("#divResult2").fadeOut(0);
-							$("#divResult2").html("<p>♥ ỪA THÌ TAO BIẾT TAO ĐẸP TRAI THẬT. NHƯNG THÔI TAO CŨNG ĐÀNH CHỊU THIỆT YÊU MẦY VẬY .<img src='http://duminhphongadv.com/files/assets/4.png'/></p></br>");
+							$("#divResult2").html("<p>♥ ỪA THÌ TAO BIẾT TAO ĐẸP TRAI THẬT. NHƯNG THÔI TAO CŨNG ĐÀNH CHỊU THIỆT YÊU MẦY VẬY .<img src='../img/4.png'/></p></br>");
 							$("#divResult2").fadeIn(2000,function()
 									{
 									$("#divResult3").fadeOut(0);
-									$("#divResult3").html("<p>VẬY HÃY ĐỂ TRÁI TIM TAO THUỘC VỀ MẦY MỘT LẦN NHÉ!  <img src='http://duminhphongadv.com/files/assets/5.png'/></p></br>");
+									$("#divResult3").html("<p>VẬY HÃY ĐỂ TRÁI TIM TAO THUỘC VỀ MẦY MỘT LẦN NHÉ!  <img src='../img/5.png'/></p></br>");
 									$("#divResult3").fadeIn(2000);
 									}
 								);
